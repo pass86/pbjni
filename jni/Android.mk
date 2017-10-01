@@ -1,4 +1,3 @@
-# protobuf-3.4.1
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE := protobuf
